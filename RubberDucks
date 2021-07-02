@@ -1,4 +1,4 @@
-{
+[
     {
         "brand": "Rubbermaid",
         "ProductName" : "Yellow Rubber Duck",
@@ -162,7 +162,7 @@
         "QtyOnHand" : 4,
         "QtyOnBackOrder" : 1,
         "Description" : "A rubber duck dressed as a office worker that floats in water"        
-    },
+    }
     
     
-}
+]
