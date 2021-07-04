@@ -3,10 +3,10 @@
         "brand": "Rubbermaid",
         "ProductName" : "Yellow Rubber Duck",
         "GraphicName" : "yellow.png",
-        "CostPrice" : 1.50,
-        "MSrP" : 2.99,
-        "QtyOnHand" : 25,
-        "QtyOnBackOrder" : 5,
+        "CostPrice" : "1.50",
+        "MSrP" : "2.99",
+        "QtyOnHand" : "25",
+        "QtyOnBackOrder" : "5",
         "Description" : "A classic yellow rubber duck with an orange beak that floats in water"        
     },
     
@@ -14,10 +14,10 @@
         "brand": "Rubbermaid",
         "ProductName" : "Green Rubber Duck",
         "GraphicName" : "green.png",
-        "CostPrice" : 1.50,
-        "MSrP" : 2.99,
-        "QtyOnHand" : 15,
-        "QtyOnBackOrder" : 3,
+        "CostPrice" : "1.50",
+        "MSrP" : "2.99",
+        "QtyOnHand" : "15",
+        "QtyOnBackOrder" : "3",
         "Description" : "A green rubber duck with a squeaker that floats in water"        
     },
     
@@ -25,10 +25,10 @@
         "brand": "Rubbermaid",
         "ProductName" : "Pink Rubber Duck",
         "GraphicName" : "pink.png",
-        "CostPrice" : 1.50,
-        "MSrP" : 2.99,
-        "QtyOnHand" : 14,
-        "QtyOnBackOrder" : 6,
+        "CostPrice" : "1.50",
+        "MSrP" : "2.99",
+        "QtyOnHand" : "14",
+        "QtyOnBackOrder" : "6",
         "Description" : "A pink rubber duck with a squeaker that floats in water"        
     },
     
@@ -36,10 +36,10 @@
         "brand": "Rubbermaid",
         "ProductName" : "Blue Rubber Duck",
         "GraphicName" : "blue.png",
-        "CostPrice" : 1.50,
-        "MSrP" : 2.99,
-        "QtyOnHand" : 13,
-        "QtyOnBackOrder" : 2,
+        "CostPrice" : "1.50",
+        "MSrP" : "2.99",
+        "QtyOnHand" : "13",
+        "QtyOnBackOrder" : "2",
         "Description" : "A blue rubber duck with a squeaker that floats in water"        
     },
     
@@ -47,10 +47,10 @@
         "brand": "Rubbermaid",
         "ProductName" : "Purple Rubber Duck",
         "GraphicName" : "purple.png",
-        "CostPrice" : 1.50,
-        "MSrP" : 2.99,
-        "QtyOnHand" : 21,
-        "QtyOnBackOrder" : 10,
+        "CostPrice" : "1.50",
+        "MSrP" : "2.99",
+        "QtyOnHand" : "21",
+        "QtyOnBackOrder" : "10",
         "Description" : "A purple rubber duck with a squeaker that floats in water"        
     },
     
@@ -58,10 +58,10 @@
         "brand": "Toys R Us",
         "ProductName" : "Doctor Rubber Duck",
         "GraphicName" : "doctor.png",
-        "CostPrice" : 2.45,
-        "MSrP" : 3.50,
-        "QtyOnHand" : 5,
-        "QtyOnBackOrder" : 2,
+        "CostPrice" : "2.45",
+        "MSrP" : "3.50",
+        "QtyOnHand" : "5",
+        "QtyOnBackOrder" : "2",
         "Description" : "A rubber duck dressed as a doctor that floats in water"        
     },
     
@@ -69,10 +69,10 @@
         "brand": "Toys R Us",
         "ProductName" : "Pilot Rubber Duck",
         "GraphicName" : "pilot.png",
-        "CostPrice" : 2.45,
-        "MSrP" : 3.50,
-        "QtyOnHand" : 2,
-        "QtyOnBackOrder" : 5,
+        "CostPrice" : "2.45",
+        "MSrP" : "3.50",
+        "QtyOnHand" : "2",
+        "QtyOnBackOrder" : "5",
         "Description" : "A rubber duck dressed as a pilot that floats in water"        
     },
     
@@ -80,10 +80,10 @@
         "brand": "Toys R Us",
         "ProductName" : "Motorcycle Rubber Duck",
         "GraphicName" : "motorcycle.png",
-        "CostPrice" : 2.45,
-        "MSrP" : 3.50,
-        "QtyOnHand" : 7,
-        "QtyOnBackOrder" : 2,
+        "CostPrice" : "2.45",
+        "MSrP" : "3.50",
+        "QtyOnHand" : "7",
+        "QtyOnBackOrder" : "2",
         "Description" : "A rubber duck dressed as a motorcyclist that floats in water"        
     },
     
@@ -91,10 +91,10 @@
         "brand": "Toys R Us",
         "ProductName" : "Pirate Rubber Duck",
         "GraphicName" : "pirate.png",
-        "CostPrice" : 2.45,
-        "MSrP" : 3.50,
-        "QtyOnHand" : 8,
-        "QtyOnBackOrder" : 4,
+        "CostPrice" : "2.45",
+        "MSrP" : "3.50",
+        "QtyOnHand" : "8",
+        "QtyOnBackOrder" : "4",
         "Description" : "A rubber duck dressed as a pirate that floats in water"        
     },
     
@@ -102,10 +102,10 @@
         "brand": "Toys R Us",
         "ProductName" : "Chef Rubber Duck",
         "GraphicName" : "chef.png",
-        "CostPrice" : 2.45,
-        "MSrP" : 3.50,
-        "QtyOnHand" : 1,
-        "QtyOnBackOrder" : 8,
+        "CostPrice" : "2.45",
+        "MSrP" : "3.50",
+        "QtyOnHand" : "1",
+        "QtyOnBackOrder" : "8",
         "Description" : "A rubber duck dressed as a chef that floats in water"        
     },
     
@@ -113,10 +113,10 @@
         "brand": "Mastermind Toys",
         "ProductName" : "Army Rubber Duck",
         "GraphicName" : "army.png",
-        "CostPrice" : 2.30,
-        "MSrP" : 3.99,
-        "QtyOnHand" : 7,
-        "QtyOnBackOrder" : 3,
+        "CostPrice" : "2.30",
+        "MSrP" : "3.99",
+        "QtyOnHand" : "7",
+        "QtyOnBackOrder" : "3",
         "Description" : "A rubber duck dressed as a soldier that floats in water"        
     },
     
@@ -124,10 +124,10 @@
         "brand": "Mastermind Toys",
         "ProductName" : "Painter Rubber Duck",
         "GraphicName" : "painter.png",
-        "CostPrice" : 2.30,
-        "MSrP" : 3.99,
-        "QtyOnHand" : 11,
-        "QtyOnBackOrder" : 0,
+        "CostPrice" : "2.30",
+        "MSrP" : "3.99",
+        "QtyOnHand" : "11",
+        "QtyOnBackOrder" : "0",
         "Description" : "A rubber duck dressed as a painter that floats in water"        
     },
     
@@ -135,10 +135,10 @@
         "brand": "Mastermind Toys",
         "ProductName" : "Teacher Rubber Duck",
         "GraphicName" : "teacher.png",
-        "CostPrice" : 2.30,
-        "MSrP" : 3.99,
-        "QtyOnHand" : 3,
-        "QtyOnBackOrder" : 3,
+        "CostPrice" : "2.30",
+        "MSrP" : "3.99",
+        "QtyOnHand" : "3",
+        "QtyOnBackOrder" : "3",
         "Description" : "A rubber duck dressed as a teacher that floats in water"        
     },
     
@@ -146,10 +146,10 @@
         "brand": "Mastermind Toys",
         "ProductName" : "Police Rubber Duck",
         "GraphicName" : "police.png",
-        "CostPrice" : 2.30,
-        "MSrP" : 3.99,
-        "QtyOnHand" : 6,
-        "QtyOnBackOrder" : 5,
+        "CostPrice" : "2.30",
+        "MSrP" : "3.99",
+        "QtyOnHand" : "6",
+        "QtyOnBackOrder" : "5",
         "Description" : "A rubber duck dressed as a police officer that floats in water"        
     },
     
@@ -157,10 +157,10 @@
         "brand": "Mastermind Toys",
         "ProductName" : "Office Rubber Duck",
         "GraphicName" : "office.png",
-        "CostPrice" : 2.30,
-        "MSrP" : 3.99,
-        "QtyOnHand" : 4,
-        "QtyOnBackOrder" : 1,
+        "CostPrice" : "2.30",
+        "MSrP" : "3.99",
+        "QtyOnHand" : "4",
+        "QtyOnBackOrder" : "1",
         "Description" : "A rubber duck dressed as a office worker that floats in water"        
     }
     
