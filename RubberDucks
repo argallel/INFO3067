@@ -2,7 +2,7 @@
     {
         "brand": "Rubbermaid",
         "ProductName" : "Yellow Rubber Duck",
-        "GraphicName" : "yellow.png",
+        "GraphicName" : "yellow.jpg",
         "CostPrice" : "1.50",
         "MSrP" : "2.99",
         "QtyOnHand" : "25",
@@ -13,7 +13,7 @@
     {
         "brand": "Rubbermaid",
         "ProductName" : "Green Rubber Duck",
-        "GraphicName" : "green.png",
+        "GraphicName" : "green.jpg",
         "CostPrice" : "1.50",
         "MSrP" : "2.99",
         "QtyOnHand" : "15",
@@ -24,7 +24,7 @@
     {
         "brand": "Rubbermaid",
         "ProductName" : "Pink Rubber Duck",
-        "GraphicName" : "pink.png",
+        "GraphicName" : "pink.jpg",
         "CostPrice" : "1.50",
         "MSrP" : "2.99",
         "QtyOnHand" : "14",
@@ -35,7 +35,7 @@
     {
         "brand": "Rubbermaid",
         "ProductName" : "Blue Rubber Duck",
-        "GraphicName" : "blue.png",
+        "GraphicName" : "blue.jpg",
         "CostPrice" : "1.50",
         "MSrP" : "2.99",
         "QtyOnHand" : "13",
@@ -46,7 +46,7 @@
     {
         "brand": "Rubbermaid",
         "ProductName" : "Purple Rubber Duck",
-        "GraphicName" : "purple.png",
+        "GraphicName" : "purple.jpg",
         "CostPrice" : "1.50",
         "MSrP" : "2.99",
         "QtyOnHand" : "21",
@@ -57,7 +57,7 @@
     {
         "brand": "Toys R Us",
         "ProductName" : "Doctor Rubber Duck",
-        "GraphicName" : "doctor.png",
+        "GraphicName" : "doctor.jpg",
         "CostPrice" : "2.45",
         "MSrP" : "3.50",
         "QtyOnHand" : "5",
@@ -68,7 +68,7 @@
     {
         "brand": "Toys R Us",
         "ProductName" : "Pilot Rubber Duck",
-        "GraphicName" : "pilot.png",
+        "GraphicName" : "pilot.jpg",
         "CostPrice" : "2.45",
         "MSrP" : "3.50",
         "QtyOnHand" : "2",
@@ -79,7 +79,7 @@
     {
         "brand": "Toys R Us",
         "ProductName" : "Motorcycle Rubber Duck",
-        "GraphicName" : "motorcycle.png",
+        "GraphicName" : "motorcycle.jpg",
         "CostPrice" : "2.45",
         "MSrP" : "3.50",
         "QtyOnHand" : "7",
@@ -90,7 +90,7 @@
     {
         "brand": "Toys R Us",
         "ProductName" : "Pirate Rubber Duck",
-        "GraphicName" : "pirate.png",
+        "GraphicName" : "pirate.jpg",
         "CostPrice" : "2.45",
         "MSrP" : "3.50",
         "QtyOnHand" : "8",
@@ -101,7 +101,7 @@
     {
         "brand": "Toys R Us",
         "ProductName" : "Chef Rubber Duck",
-        "GraphicName" : "chef.png",
+        "GraphicName" : "chef.jpg",
         "CostPrice" : "2.45",
         "MSrP" : "3.50",
         "QtyOnHand" : "1",
@@ -112,7 +112,7 @@
     {
         "brand": "Mastermind Toys",
         "ProductName" : "Army Rubber Duck",
-        "GraphicName" : "army.png",
+        "GraphicName" : "army.jpg",
         "CostPrice" : "2.30",
         "MSrP" : "3.99",
         "QtyOnHand" : "7",
@@ -123,7 +123,7 @@
     {
         "brand": "Mastermind Toys",
         "ProductName" : "Painter Rubber Duck",
-        "GraphicName" : "painter.png",
+        "GraphicName" : "painter.jpg",
         "CostPrice" : "2.30",
         "MSrP" : "3.99",
         "QtyOnHand" : "11",
@@ -134,7 +134,7 @@
     {
         "brand": "Mastermind Toys",
         "ProductName" : "Teacher Rubber Duck",
-        "GraphicName" : "teacher.png",
+        "GraphicName" : "teacher.jpg",
         "CostPrice" : "2.30",
         "MSrP" : "3.99",
         "QtyOnHand" : "3",
@@ -145,7 +145,7 @@
     {
         "brand": "Mastermind Toys",
         "ProductName" : "Police Rubber Duck",
-        "GraphicName" : "police.png",
+        "GraphicName" : "police.jpg",
         "CostPrice" : "2.30",
         "MSrP" : "3.99",
         "QtyOnHand" : "6",
@@ -156,7 +156,7 @@
     {
         "brand": "Mastermind Toys",
         "ProductName" : "Office Rubber Duck",
-        "GraphicName" : "office.png",
+        "GraphicName" : "office.jpg",
         "CostPrice" : "2.30",
         "MSrP" : "3.99",
         "QtyOnHand" : "4",
